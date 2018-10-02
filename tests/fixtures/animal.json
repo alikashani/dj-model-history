@@ -1,0 +1,221 @@
+[{
+  "model": "tests.animal",
+  "pk": 1,
+  "fields": {
+    "name": "Heron, boat-billed",
+    "scientific_name": "Cochlearius cochlearius",
+    "tooth_count": 5,
+    "is_carnivore": false,
+    "created": "2017-11-09T00:40:11Z",
+    "modified": "2018-05-14T14:45:20Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 2,
+  "fields": {
+    "name": "Ibis, glossy",
+    "scientific_name": "Plegadis falcinellus",
+    "tooth_count": 19,
+    "is_carnivore": true,
+    "created": "2018-07-26T14:20:14Z",
+    "modified": "2017-10-14T05:14:15Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 3,
+  "fields": {
+    "name": "Zebra, plains",
+    "scientific_name": "Equus burchelli",
+    "tooth_count": 4,
+    "is_carnivore": false,
+    "created": "2017-11-09T02:23:04Z",
+    "modified": "2017-12-06T06:56:24Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 4,
+  "fields": {
+    "name": "Tasmanian devil",
+    "scientific_name": "Sarcophilus harrisii",
+    "tooth_count": 15,
+    "is_carnivore": true,
+    "created": "2018-02-17T12:17:41Z",
+    "modified": "2018-08-25T18:27:26Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 5,
+  "fields": {
+    "name": "Stone sheep",
+    "scientific_name": "Ovis dalli stonei",
+    "tooth_count": 18,
+    "is_carnivore": true,
+    "created": "2018-01-31T14:40:10Z",
+    "modified": "2017-11-30T02:19:28Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 6,
+  "fields": {
+    "name": "Heron, gray",
+    "scientific_name": "Ardea cinerea",
+    "tooth_count": 9,
+    "is_carnivore": true,
+    "created": "2018-07-05T02:11:27Z",
+    "modified": "2018-07-13T23:07:35Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 7,
+  "fields": {
+    "name": "Common goldeneye",
+    "scientific_name": "Bucephala clangula",
+    "tooth_count": 3,
+    "is_carnivore": true,
+    "created": "2017-10-16T16:09:09Z",
+    "modified": "2018-03-30T21:36:44Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 8,
+  "fields": {
+    "name": "Mynah, common",
+    "scientific_name": "Acridotheres tristis",
+    "tooth_count": 18,
+    "is_carnivore": true,
+    "created": "2018-05-18T10:11:48Z",
+    "modified": "2018-08-10T06:21:54Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 9,
+  "fields": {
+    "name": "Deer, savannah",
+    "scientific_name": "Mazama gouazoubira",
+    "tooth_count": 10,
+    "is_carnivore": false,
+    "created": "2018-07-22T13:19:47Z",
+    "modified": "2018-08-30T13:34:02Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 10,
+  "fields": {
+    "name": "Toddy cat",
+    "scientific_name": "Paradoxurus hermaphroditus",
+    "tooth_count": 15,
+    "is_carnivore": false,
+    "created": "2018-04-25T22:45:38Z",
+    "modified": "2018-05-05T14:19:48Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 11,
+  "fields": {
+    "name": "Black-crowned crane",
+    "scientific_name": "Balearica pavonina",
+    "tooth_count": 17,
+    "is_carnivore": false,
+    "created": "2018-04-20T20:12:45Z",
+    "modified": "2018-02-22T13:12:45Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 12,
+  "fields": {
+    "name": "Killer whale",
+    "scientific_name": "Orcinus orca",
+    "tooth_count": 4,
+    "is_carnivore": true,
+    "created": "2018-03-28T18:50:21Z",
+    "modified": "2017-11-12T05:46:26Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 13,
+  "fields": {
+    "name": "Turkey, wild",
+    "scientific_name": "Meleagris gallopavo",
+    "tooth_count": 8,
+    "is_carnivore": false,
+    "created": "2018-04-07T03:13:13Z",
+    "modified": "2018-04-12T22:25:17Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 14,
+  "fields": {
+    "name": "Whale, southern right",
+    "scientific_name": "Eubalaena australis",
+    "tooth_count": 7,
+    "is_carnivore": false,
+    "created": "2018-06-07T05:29:53Z",
+    "modified": "2017-10-22T21:50:24Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 15,
+  "fields": {
+    "name": "European shelduck",
+    "scientific_name": "Tadorna tadorna",
+    "tooth_count": 18,
+    "is_carnivore": true,
+    "created": "2017-12-21T05:03:27Z",
+    "modified": "2017-12-01T18:05:26Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 16,
+  "fields": {
+    "name": "Common wolf",
+    "scientific_name": "Canis lupus",
+    "tooth_count": 17,
+    "is_carnivore": true,
+    "created": "2018-05-25T02:39:48Z",
+    "modified": "2018-03-03T05:22:34Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 17,
+  "fields": {
+    "name": "Seal, common",
+    "scientific_name": "Phoca vitulina",
+    "tooth_count": 9,
+    "is_carnivore": false,
+    "created": "2017-12-02T10:48:28Z",
+    "modified": "2018-04-27T22:43:42Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 18,
+  "fields": {
+    "name": "Woolly-necked stork",
+    "scientific_name": "Ciconia episcopus",
+    "tooth_count": 13,
+    "is_carnivore": true,
+    "created": "2017-12-22T22:39:41Z",
+    "modified": "2018-07-28T01:54:43Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 19,
+  "fields": {
+    "name": "Mexican wolf",
+    "scientific_name": "Canis lupus baileyi",
+    "tooth_count": 14,
+    "is_carnivore": true,
+    "created": "2018-06-13T18:30:12Z",
+    "modified": "2018-07-20T03:51:21Z"
+  }
+}, {
+  "model": "tests.animal",
+  "pk": 20,
+  "fields": {
+    "name": "Little grebe",
+    "scientific_name": "Tachybaptus ruficollis",
+    "tooth_count": 4,
+    "is_carnivore": false,
+    "created": "2018-03-05T20:53:47Z",
+    "modified": "2017-12-07T17:19:05Z"
+  }
+}]

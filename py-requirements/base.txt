@@ -1,0 +1,5 @@
+Django==1.11.4
+django-extensions==1.8.1
+psycopg2==2.7.3
+djangorestframework==3.6.4
+python-dateutil==2.6.1

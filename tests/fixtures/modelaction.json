@@ -1,0 +1,23 @@
+[
+  {
+    "model": "dj_model_history.modelaction",
+    "pk": 1,
+    "fields": {
+      "name": "Create"
+    }
+  },
+  {
+    "model": "dj_model_history.modelaction",
+    "pk": 2,
+    "fields": {
+      "name": "Update"
+    }
+  },
+  {
+    "model": "dj_model_history.modelaction",
+    "pk": 3,
+    "fields": {
+      "name": "Delete"
+    }
+  }
+]
