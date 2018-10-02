@@ -42,13 +42,12 @@ if sys.argv[-1] == 'tag':
     sys.exit()
 
 readme = open('README.rst').read()
-history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
     name='dj-model-history',
     version=version,
     description="""Track the lifecycle of your django project's models""",
-    long_description=readme + '\n\n' + history,
+    long_description=readme,
     author='Ali Kashani',
     author_email='1kashaniali@gmail.com',
     url='https://github.com/alikashani/dj-model-history',
