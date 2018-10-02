@@ -48,3 +48,6 @@ docs/_build
 
 # Virtualenv
 .env
+
+# Github
+.github
